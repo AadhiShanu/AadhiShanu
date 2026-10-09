@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AadhiShanu
 - 👀 I’m interested in Android
-- 🌱 I’m currently learning 10th
+- 🌱 I’m currently learning BTECH in Computer Science
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me IDK
 
